@@ -4,9 +4,9 @@ const btn = document.querySelector("button");
 btn.onclick = () => {
   btn.innerHTML = "Loading...";
 };
-const serviceId = "service_64f4jig";
-const userId = "ie-y4dlUm6zOqJjms";
-const templateId = "template_mpreulh";
+const serviceId = "service_8erjf1f";
+const userId = "6ep_z3JeZLk9A3sA5";
+const templateId = "template_1r22rld";
 document.getElementById("myForm").onsubmit = function (event) {
   event.preventDefault();
   const emailParams = {
